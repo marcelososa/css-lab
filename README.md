@@ -131,3 +131,8 @@ Exercises
 
 ### 2.6 Media queries
 * [Learn Media Queries](http://css-tricks.com/css-media-queries/) and adapt your previous exercises to work on mobile screens. Use the following design as guide [example](http://mediaqueri.es/ity/).
+
+### 2.7 Preprocessors
+
+#### 2.7.1 [Less](http://lesscss.org/)
+#### 2.7.2 [Sass](http://sass-lang.com/)
